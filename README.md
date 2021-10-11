@@ -35,3 +35,10 @@ stack run
 Als alles goed gegaan is, krijg je nu een trillende cirkel te zien
 in een nieuw venster, dewelke je kan bewegen met behulp van je
 pijltjestoetsen.
+
+## Als niet alles goed gaat
+
+* Je krijgt tijdens de compilatie of uitvoering foutmeldingen over
+  GLUT functies: er staat geen OpenGL geïnstalleerd op je systeem.
+  Installeer [freeglut](http://freeglut.sourceforge.net/) of een andere
+  implementatie.
