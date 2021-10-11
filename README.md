@@ -40,5 +40,9 @@ pijltjestoetsen.
 
 * Je krijgt tijdens de compilatie of uitvoering foutmeldingen over
   GLUT functies: er staat geen OpenGL geïnstalleerd op je systeem.
-  Installeer [freeglut](http://freeglut.sourceforge.net/) of een andere
+  Download de [freeglut](http://freeglut.sourceforge.net/) library of een andere
   implementatie.
+
+  Je hoeft freeglut niet zelf te compileren, gewoon prepacked binaries
+  downloaden en de bibliotheek (Windows: DLL) in je pad plaatsen is
+  voldoende.
